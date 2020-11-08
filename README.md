@@ -12,4 +12,4 @@
 3. source.py 资源文件
 
 复现：
-先运行feature.py，再运行model.py。
+运行顺序feature.py-model.py。
