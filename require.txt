@@ -1,0 +1,7 @@
+pip install tqdm==4.47.0
+pip install sklearn==0.23.1
+pip install catboost==0.23.2
+pip install fancyimpute==0.5.4
+pip install lightgbm==2.3.1
+pip install xgboost==1.1.1
+pip install numpy==1.16.4
